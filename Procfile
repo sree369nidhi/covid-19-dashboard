@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run covid-19-Dashboard.py
